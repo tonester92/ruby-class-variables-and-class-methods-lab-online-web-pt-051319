@@ -51,7 +51,6 @@ class Song
   end
 end 
 
-=======
 class Song
 
   attr_accessor :name, :artist, :genre
