@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 class Song  
   attr_accessor :name, :artist, :genre
 
@@ -106,5 +105,3 @@ class Song
     artist_count
   end
 end 
- 
->>>>>>> cfe11b21a7fd2d32c8f01d3cb4c92fa5f80695fb
